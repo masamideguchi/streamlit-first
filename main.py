@@ -53,11 +53,6 @@ st.dataframe(df.style.highlight_max(axis=0), width=200, height=200)
 
 st.table(df)
 
-"""
-# 章
-## 節
-### 項目
-
 ```python
 import pandas as pd
 import numpy as np
